@@ -21,6 +21,7 @@
             ],
             "tsConfig": "tsconfig.app.json",
             "assets": [
+
               {
                 "glob": "**/*",
                 "input": "public"
@@ -97,5 +98,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "07206008-12fd-45c8-9161-588b69ecce10"
   }
 }
