@@ -1,0 +1,69 @@
+.hobby-do-mes-container {
+    text-align: left;
+  }
+  
+  .hobby-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 70px;
+    color: #E15C31;
+  }
+  
+  .hobby-content {
+    display: flex;
+    justify-content: left;
+    gap: 20px;
+  }
+ 
+  
+  .imgdance {
+    width: 400px;
+    height: 300px;
+    margin-left: 70px;
+  }
+
+  .hobby-text-container {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    padding: 20px;
+    width: 400px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .hobby-text-container {
+    background-color: #043B64;
+    color: #E15C31;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .favorite-text {
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    flex-grow: 1; 
+    text-align:end;
+    margin: 0; 
+  }
+  
+  .discover-button {
+    background-color: #043B64;
+    color: #E15C31;
+    font-weight: 600;
+    border:  1px solid #ffff;
+    padding: 10px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 18px;
+  }
+  
+  .discover-button:hover {
+    background-color: white;
+  }
+  
